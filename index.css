@@ -1,0 +1,19 @@
+
+h1{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+
+    width: 40vw;
+    border: 1em solid aquamarine;
+    border-radius: 10%;
+}
+
+p{
+    text-align: center;
+
+    padding-top: 3em;
+}
